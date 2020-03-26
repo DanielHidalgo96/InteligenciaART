@@ -1,0 +1,20 @@
+{
+	"Probabilidad":[
+		{"Token":"Increible",
+			"Spam":4,
+			"NoSpam":2,
+			"Total":6},
+		{"Token":"Ganaste",
+			"Spam":5,
+			"NoSpam":1,
+			"Total":6},
+		{"Token":"Felicidades",
+			"Spam":1,
+			"NoSpam":3,
+			"Total":4},
+		{"Token":"Dinero",
+			"Spam":4,
+			"NoSpam":0,
+			"Total":4}
+	]
+}
